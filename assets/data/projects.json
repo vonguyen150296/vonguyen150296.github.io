@@ -1,0 +1,120 @@
+{
+    "FR":[
+        {   "id": 0,
+            "name" : "Un Blog",
+            "date" : "1 Janvier 2018 (2 mois)",
+            "image_url" : "assets/images/blog.JPG",
+            "image2_url" : "assets/images/blog.JPG",
+            "tech" : ["Html","CSS","JavaScript","PHP","MySQL","Laravel", "Bootstrap", "JQuery"],
+            "descript" : [
+                "Après avoir suivi des cours de base sur HTML, CSS, JavaScript, Php, MySQL, Laravel. Je souhaite créer un projet Web qui vise à mettre en pratique ce que j'ai appris. Ce projet m'aide facilité la recherche de stages de 4ième année."
+            ],
+            "func" : [
+                "La gestion des articles",
+                "L'ajout, la modification, la suppression de l'article",
+                "La création d'un compte"
+            ],
+            "link": "https://github.com/vonguyen150296/Blog"
+
+        },
+        {   "id": 1,
+            "name" : "Web Automate",
+            "date" : "01 Octobre 2018 (2 mois)",
+            "image_url" : "assets/images/web_automate.JPG",
+            "image2_url" : "assets/images/web_automate.JPG",
+            "tech" : ["Html","CSS", "JavaScript", "PHP", "Design pattern MVC", "Automate: AIO C0800", "ChartJS"],
+            "descript" : [
+                "Dans le cadre du module Architecture Web Automates Intranet Extranet, ce projet est réalisé autour de la gestion d’un automate programmable à travers le réseau web. Banc expérimental de mesure.",
+                "D’un côté, ce projet porte sur la création des pages web statiques et dynamiques. Cette partie est pour la création de l’interface utilisateur-administrateur en appliquant les technologies PHP, HTML, SQL, CSS… D’autre côté, ce projet porte sur la compréhension et l’utilisation de l’automate."
+            ],
+            "func" : [
+                "La connexion avec l'Automate: AIO C0800 afin de récupérer les données.",
+                "La création d'un compte pour client.",
+                "La publication les articles sur site web.",
+                "La gestion des informations du  client.",
+                "La plate-forme pour client et la plate-forme pour administrateur."
+            ],
+            "link": "https://github.com/vonguyen150296/VietPro"
+
+        },
+        {   "id": 2,
+            "name" : "Projet Fin D'étude",
+            "date" : "20 Septembre 2018 (4 mois)",
+            "image_url" : "assets/images/projet_fin_etude0.JPG",
+            "image2_url" : "assets/images/projet_fin_etude.JPG",
+            "tech" : ["Laravel","AngularJS", "npm", "PHP","Bootstrap 3/4", "Composer", "npm", "SenGrid", "SMTP"],
+            "descript" : [
+                "Dans le cadre de ma cinquième année en école INSA Centre Val De Loire au département Génie Des Systèmes Industriels (GSI) en formation Acquisition, Analyse et Décision (ACAD), j’ai effectué un projet fin d’étude pour une durée 100h.",
+                "Ce projet est un site e-commerce. Il permet de vendre les gâteaux pour les clients. Il est construit par les deux Frameworks principales : Laravel 5.7 et Angular.js. Ce projet comprend 2 plates-formes : une pour utilisateur, autre pour administrateur."
+            ],
+            "func" : [
+                "Autorisation le Paiement, la commande, la création d'un compte.",
+                "L'envoi les emails de publication, les emails de confirmation.",
+                "La gestion des informations des clients.",
+                "L'appel de API des factures.",
+                "La gestion les gâteaux sủ le site web (ajout, modification, suppression)."
+            ],
+            "link": "https://github.com/vonguyen150296/ShoppingALL"
+
+        }
+    ],
+    "EN": [
+        {   "id": 0,
+            "name" : "A Blog",
+            "date" : "January 1, 2018 (2 months)",
+            "image_url" : "assets/images/blog.JPG",
+            "image2_url" : "assets/images/blog.JPG",
+            "tech" : ["Html","CSS","JavaScript","PHP","MySQL","Laravel", "Bootstrap", "JQuery"],
+            "descript" : [
+                "After having followed basic courses on HTML, CSS, JavaScript, Php, MySQL, Laravel. I want to create a web project that aims to put into practice what I have learned. This project helps me facilitate the search for 4th year internships."
+            ],
+            "func" : [
+                "Article management",
+                "Adding, modifying, deleting the article",
+                "Creating an account"
+            ],
+            "link": "https://github.com/vonguyen150296/Blog"
+
+        },
+        {   "id": 1,
+            "name" : "Web PLC",
+            "date" : "October 1, 2018 (2 months)",
+            "image_url" : "assets/images/web_automate.JPG",
+            "image2_url" : "assets/images/web_automate.JPG",
+            "tech" : ["Html","CSS", "JavaScript", "PHP", "Design pattern MVC", "Automate: AIO C0800", "ChartJS"],
+            "descript" : [
+                "As part of the Web Architecture Automates Intranet Extranet module, this project is carried out around the management of a programmable logic controller through the web network. Experimental measurement bench.",
+                "On the one hand, this project is about creating static and dynamic web pages. This part is for the creation of the user-administrator interface by applying the technologies PHP, HTML, SQL, CSS… On the other hand, this project is about the understanding and use of the PLC."
+            ],
+            "func" : [
+                "Connection with the PLC: AIO C0800 in order to recover the data.",
+                "The creation of an account for a client.",
+                "Publication of articles on website.",
+                "Managing customer information.",
+                "The client platform and the administrator platform."
+            ],
+            "link": "https://github.com/vonguyen150296/VietPro"
+
+        },
+        {   "id": 2,
+            "name" : "End of studies project",
+            "date" : "September 20, 2018 (4 months)",
+            "image_url" : "assets/images/projet_fin_etude0.JPG",
+            "image2_url" : "assets/images/projet_fin_etude.JPG",
+            "tech" : ["Laravel","AngularJS", "npm", "PHP","Bootstrap 3/4", "Composer", "npm", "SenGrid", "SMTP"],
+            "descript" : [
+                "As part of my fifth year in INSA Center Val De Loire school in the Industrial Systems Engineering (GSI) department in Acquisition, Analysis and Decision (ACAD) training, I carried out an end-of-study project for a period of 100 hours.",
+                "This project is an e-commerce site. It allows the cakes to be sold for the customers. It is built by the two main Frameworks: Laravel 5.7 and Angular.js. This project includes 2 platforms: one for user, another for administrator."
+            ],
+            "func" : [
+                "Authorization Payment, order, creation of an account.",
+                "Sending publication emails, confirmation emails.",
+                "Managing customer information.",
+                "The API call for invoices.",
+                "The management of the cakes on the website (addition, modification, deletion)."
+            ],
+            "link": "https://github.com/vonguyen150296/ShoppingALL"
+
+        }
+    ]
+}

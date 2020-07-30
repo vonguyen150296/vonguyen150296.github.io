@@ -1,0 +1,36 @@
+{
+    "infos": {
+        "fullname": "Nguyen VO",
+        "logo_url": "assets/images/logo.png",
+        "avatar_url": "assets/images/avatar.png",
+        "cover_image": {
+            "EN": [
+                {"name": "Curious", "image_url":"assets/images/curious.png"},
+                {"name": "Motivated", "image_url":"assets/images/motivated.jpg"},
+                {"name": "Determined", "image_url":"assets/images/determined.jpg"}
+            ],
+            "FR": [
+                {"name": "Curieuse", "image_url":"assets/images/curious.png"},
+                {"name": "Motivée", "image_url":"assets/images/motivated.jpg"},
+                {"name": "Déterminée", "image_url":"assets/images/determined.jpg"}
+            ]
+        },
+        "cv_url": "assets/cv/CV_Nguyen-VO.pdf"
+    },
+    "menu": {
+        "EN" : [
+            {"name": "Home", "path":"/home"},
+            {"name": "My projects", "path":"/projects"},
+            {"name": "My experiences", "path":"/experiences"},
+            {"name": "My skills", "path":"/skills"},
+            {"name": "My contacts", "path":"/contacts"}
+        ],
+        "FR": [
+            {"name": "Accueil", "path":"/home"},
+            {"name": "Mes projets", "path":"/projects"},
+            {"name": "Mes expériences", "path":"/experiences"},
+            {"name": "Mes compétences", "path":"/skills"},
+            {"name": "Mes contacts", "path":"/contacts"}
+        ]
+    }
+}

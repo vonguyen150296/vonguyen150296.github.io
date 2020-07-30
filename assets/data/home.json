@@ -1,0 +1,54 @@
+{
+    "evaluate": {
+        "FR": [
+            {
+                "subject": "Stagiaire 4ème Année",
+                "company": "Start-up Check & Visit",
+                "logo_url": "assets/images/logo.png",
+                "description": "Il s'adapte assez rapidement à l'environnement de travail de l'entreprise. Il est très désireux d'apprendre et enthousiaste au travail",
+                "name": "Thibault Le Treut - CEO & Co-fondateur - Check & Visit"
+            },
+            {
+                "subject": "Stagiaire 5ème Année",
+                "company": "La société TERENUI",
+                "logo_url": "assets/images/terenui.jpg",
+                "description": "Nos clients adorent les templates webs qu'il a créé. C'est un bon stagiaire.",
+                "name": "Christophe HEUBERGER - Fondateur et Gérant - TERENUI"
+            }
+        ],
+        "EN": [
+            {
+                "subject": "4th year internship",
+                "company": "Start-up Check & Visit",
+                "logo_url": "assets/images/logo.png",
+                "description": "He adapts fairly quickly to the company's working environment. He is very eager to learn and enthusiastic at work",
+                "name": "Thibault Le Treut - CEO & Co-fondateur - Check & Visit"
+            },
+            {
+                "subject": "5th year internship",
+                "company": "TERENUI Company",
+                "logo_url": "assets/images/terenui.jpg",
+                "description": "Our customers love the web templates he created. He's a good intern.",
+                "name": "Christophe HEUBERGER - Fondateur et Gérant - TERENUI"
+            }
+        ]
+    },
+    "character": {
+        "EN":[
+            {"icon":"fas fa-people-carry","name": "Enthusiastic", "description": "I am always enthusiastic at work, ready to help my colleagues, ready to invest my private time to carry out projects well."},
+            {"icon":"far fa-lightbulb","name": "Creative", "description": "I am an innovative web developer. I often have good ideas for creating the web view and finding the right solution for the requirement of client."},
+            {"icon":"fas fa-book-open","name": "Study-loving", "description": "I love to learn new technologies. I often spend hours in the week learning new technologies."},
+            {"icon":"fas fa-burn","name": "Energetic", "description": "I am a fun and lively person. I always have positive energy in life and at work."}
+        ],
+        "FR":[
+            {"icon":"fas fa-people-carry","name": "Enthousiaste", "description": "Je suis toujours enthousiaste au travail, prêt à aider mes collègues, prêt à investir mon temps privé pour bien mener aux projets."},
+            {"icon":"far fa-lightbulb","name": "Créative", "description": "Je suis un développeur web innovant. J'ai souvent de bonnes idées pour créer les templates web et trouver la bonne solution au cas où le client en aurait besoin."},
+            {"icon":"fas fa-book-open","name": "Aimant les études", "description": "J'adore apprendre les nouvelles technologies. Je passe souvent des heures dans la semaine à apprendre les nouvelles technologies."},
+            {"icon":"fas fa-burn","name": "Énergique", "description": "Je suis une personne amusant et vivant. J'ai toujours une énergie positive dans la vie et au travail."}
+        ]
+    },
+    "description" : {
+        "EN": "I am a young graduate from INSA Center Val De Loire. I am looking for a job in web development. I am dynamic, enthusiastic and study-loving. I quickly adapt to the study environment as well as to the work environment. I am available at the moment for interviews.",
+        "FR": "Je suis jeune diplômé à l’INSA Centre Val De Loire. Je cherche un travail dans le domaine de développement Web. Je suis dynamique, enthousiaste et aimant les études. Je m’adapte rapidement à l’environnement d’étude ainsi qu’à l’environnement de travail. Je suis disponible en ce moment pour les entretiens."
+    }
+}

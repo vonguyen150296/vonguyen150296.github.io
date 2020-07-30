@@ -1,0 +1,126 @@
+{
+    "FR":[
+        {   "id": 0,
+            "name" : "Développeur Web à TERENUI",
+            "date" : "Novembre 2019 (8 mois)",
+            "image_url" : "assets/images/terenui.jpg",
+            "image2_url" : "assets/images/terenui.jpg",
+            "tech" : ["Html","CSS","JavaScript", "Angular(1x,7x)","4D database"],
+            "descript" : [
+                "Après le stage de 5ème année, j'ai été proposé de continuer mon travail là-bas."
+            ],
+            "mission" : [
+                "Participer à construire la base des donnéés.",
+                "Créer les templates webs.",
+                "Échanger avec le chef de projet afin de trouver les solutions pour les demandes du client.",
+                "Supporter les clients."
+            ],
+            "link": "https://www.terenui.fr/",
+            "detail": "Voir en détail",
+            "team": "10 personnes"
+
+        },
+        {   "id": 1,
+            "name" : "Stagiaire 5ème Année à TERENUI",
+            "date" : "Mars 2019 (6 mois)",
+            "image_url" : "assets/images/terenui.jpg",
+            "image2_url" : "assets/images/terenui.jpg",
+            "tech" : ["Html","CSS","JavaScript", "Angular(1x,7x)","4D database"],
+            "descript" : [
+                "Au sein d’une startup qui est spécialisée dans le secteur d'activité du conseil en systèmes et logiciels informatiques. TERENUI, elle a donné lieu au sujet de stage : Développement web et Base des données sur le logiciel médical édité par la société TERENUI.",
+                "GRIMOIRES est un grand projet. Il est créé il y a quelques années.  Ce projet est une combinaison de site web et logiciel 4D. Il permet de gérer un hôpital. C’est-à-dire, les médecins et les infirmiers peuvent utiliser cette application pour gérer ses informations, ses tâches, ... Ainsi qu’aux informations de patient."
+            ],
+            "mission" : [
+                "Ecouter des besoins du client",
+                "Créer les templates webs."
+            ],
+            "link": "https://www.terenui.fr/",
+            "detail": "Voir en détail",
+            "team": "10 personnes"
+
+        },
+        {   "id": 2,
+            "name" : "Stagiaire 4ème Année à Check & Visit",
+            "date" : "Avril 2018 (4 mois)",
+            "image_url" : "assets/images/logo.png",
+            "image2_url" : "assets/images/checkandvisit.JPG",
+            "tech" : ["Html","CSS", "JavaScript", "PHP", "Laravel", "VueJS", "API Zoho", "SendinBlue","ChartJS"],
+            "descript" : [
+                "Au sein d’une startup qui organise et réalise les états des lieux pour les particuliers et les professionnels, Check&Visit, il a donné lieu au sujet de ce stage : Stage développeur Fullstack, il faut créer une application Web de planification de rendez-vous.",
+                "Cette application permet les clients de mettre en oeuvre le rendez-vous pour l’état des lieux. De plus, il permet de créer d'un compte, d'effectuer le paiement, de gérer les factures."
+            ],
+            "mission" : [
+                "Création une applition web de planification de rendez-vous.",
+                "Appel les API des factures (API Zoho).",
+                "Envoi les emails de publication, de confirmation.",
+                "Authentication pour l'application."
+            ],
+            "link": "https://checkandvisit.com/",
+            "detail": "Voir en détail",
+            "team": "4 personnes"
+
+        }
+    ],
+    "EN": [
+        {   "id": 0,
+            "name" : "Web Developer at TERENUI",
+            "date" : "November 2019 (8 months)",
+            "image_url" : "assets/images/terenui.jpg",
+            "image2_url" : "assets/images/terenui.jpg",
+            "tech" : ["Html","CSS","JavaScript", "Angular(1x,7x)","4D database"],
+            "descript" : [
+                "After the 5th year internship, I was offered to continue my work there."
+            ],
+            "mission" : [
+                "Participate in building the data base.",
+                "Create the web templates.",
+                "Discuss with the project manager in order to find solutions for the client's requests.",
+                "Support customers."
+            ],
+            "link": "https://www.terenui.fr/",
+            "detail": "Read more",
+            "team": "10 persons"
+
+        },
+        {   "id": 1,
+            "name" : "5th year intern at TERENUI",
+            "date" : "March 2019 (6 months)",
+            "image_url" : "assets/images/terenui.jpg",
+            "image2_url" : "assets/images/terenui.jpg",
+            "tech" : ["Html","CSS","JavaScript", "Angular(1x,7x)","4D database"],
+            "descript" : [
+                "In a startup that specializes in the business sector of IT systems and software consulting. TERENUI, it gave rise to the subject of the internship: Web development and Database on medical software edited by the company TERENUI.",
+                "GRIMOIRES is a big project. It was created a few years ago. This project is a combination of website and 4D software. It allows to manage a hospital. That is, doctors and nurses can use this application to manage its information, tasks, ... as well as patient information."
+            ],
+            "mission" : [
+                "Listening to customer needs",
+                "Create the web templates."
+            ],
+            "link": "https://www.terenui.fr/",
+            "detail": "Read more",
+            "team": "10 persons"
+
+        },
+        {   "id": 2,
+            "name" : "4th Year Intern at Check & Visit",
+            "date" : "April 2018 (4 months)",
+            "image_url" : "assets/images/logo.png",
+            "image2_url" : "assets/images/checkandvisit.JPG",
+            "tech" : ["Html","CSS", "JavaScript", "PHP", "Laravel", "VueJS", "API Zoho", "SendinBlue","ChartJS"],
+            "descript" : [
+                "In a startup that organizes and carries out inventory for individuals and professionals, Check & Visit, it gave rise to the subject of this internship: Fullstack developer internship, you have to create a web appointment scheduling application.",
+                "This application allows customers to set up the inventory appointment. In addition, it allows you to create an account, make payment, manage invoices."
+            ],
+            "mission" : [
+                "Creation of an appointment scheduling web application.",
+                "Appel les API des factures (API Zoho).",
+                "Sending publication and confirmation emails.",
+                "Authentication for the application."
+            ],
+            "link": "https://checkandvisit.com/",
+            "detail": "Read more",
+            "team": "4 persons"
+
+        }
+    ]
+}

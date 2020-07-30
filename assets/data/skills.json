@@ -1,0 +1,202 @@
+{
+    "EN" : [
+        {
+            "key" : "Informatique",
+            "name": "IT",
+            "values" : [
+                {
+                    "name":"Front-end",
+                    "value": ["Html", "CSS", "JavaScript","Angular(1x-7x+)", "Bootstrap 3/4", "CharJS","VueJS","Typescript","JSON"],
+                    "detail" : [
+                        {
+                            "name" : "JavaScript",
+                            "value" : [
+                                "Array, String, Date, Regular.",
+                                "DOM, BOM, Object.",
+                                "ES6, Typecript."
+                            ]
+                        },
+                        {
+                            "name" : "Angular",
+                            "value" : [
+                                "Form, Component, Template, NgModule.",
+                                "Observable & RxJS, ngRx Store, Dependency Injection.",
+                                "Router, Acess Server, Security, Deployement, Testing."
+                            ]
+                        },
+                        {
+                            "name" : "VueJS",
+                            "value" : [
+                                "Form, Component, Template, Instance, Event Handing.",
+                                "State Management, Plugins, Dependency Injection.",
+                                "Router, Acess Server, Security, Deployement, Testing."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name":"Back-end",
+                    "value" : ["PHP", "NodeJS","MySQL","Laravel","Design Pattern", "API","Security","Git"],
+                    "detail" : [
+                        {
+                            "name" : "PHP",
+                            "value" : [
+                                "Array, String, Date, Form",
+                                "PHP Object Oriented, File Upload, Mail, Cookies.",
+                                "PHP + MySQL,PDO, Error Handing."
+                            ]
+                        },
+                        {
+                            "name" : "Design Pattern",
+                            "value" : [
+                                "MVC , MVVC."
+                            ]
+                        },
+                        {
+                            "name" : "Laravel",
+                            "value" : [
+                                "Routing, Middleware, CSRF protection,Controller, View.",
+                                "Error Handing, Validation, Session, HTTP response",
+                                "Authetication, Authorization, Encryption, Hashing, Mail",
+                                "Eloquent, Test, Deployment, Cache, Artisan controle."
+                            ]
+                        },
+                        {
+                            "name" : "Security",
+                            "value" : [
+                                "Xss, Csrf, SQL Injection",
+                                "Insecure direct object references, cookie."
+                            ]
+                        },
+                        {
+                            "name" : "NodeJS",
+                            "value" : [
+                                "Module, Upload files, Npm, Event, Timers",
+                                "NodeJS + MySQL, Email, Blocking & Non-Blocking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key" : "Language",
+            "name" : "Languages",
+            "values" : [
+                {"name": "Vietnamien :", "level": "Mother tongue"},
+                {"name": "Francais :", "level": "Level B2"},
+                {"name": "Anglais :", "level": "TOEIC 785"}
+            ]
+        },
+        {
+            "key" : "Authes",
+            "name": "Others",
+            "values": [
+                {"name":"Team working"},
+                {"name":"Optimize the code."},
+                {"name": "Listening to needs."},
+                {"name": "Manage projects"}
+            ]
+        }
+    ],
+    "FR": [
+        {
+            "key" : "Informatique",
+            "name": "Informatiques",
+            "values" : [
+                {
+                    "name":"Front office",
+                    "value": ["Html", "CSS", "JavaScript","Angular(1x-7x+)", "Bootstrap 3/4", "CharJS","VueJS","Typescript","JSON"],
+                    "detail" : [
+                        {
+                            "name" : "JavaScript",
+                            "value" : [
+                                "Array, String, Date, Regular.",
+                                "DOM, BOM, Object.",
+                                "ES6, Typecript."
+                            ]
+                        },
+                        {
+                            "name" : "Angular",
+                            "value" : [
+                                "Form, Component, Template, NgModule.",
+                                "Observable & RxJS, ngRx Store, Dependency Injection.",
+                                "Router, Acess Server, Security, Deployement, Testing."
+                            ]
+                        },
+                        {
+                            "name" : "VueJS",
+                            "value" : [
+                                "Form, Component, Template, Instance, Event Handing.",
+                                "State Management, Plugins, Dependency Injection.",
+                                "Router, Acess Server, Security, Deployement, Testing."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name":"Back office",
+                    "value" : ["PHP", "NodeJS","MySQL","Laravel","Design Pattern", "API","Security","Git"],
+                    "detail" : [
+                        {
+                            "name" : "PHP",
+                            "value" : [
+                                "Array, String, Date, Form",
+                                "PHP Object Oriented, File Upload, Mail, Cookies.",
+                                "PHP + MySQL,PDO, Error Handing."
+                            ]
+                        },
+                        {
+                            "name" : "Design Pattern",
+                            "value" : [
+                                "MVC , MVVC."
+                            ]
+                        },
+                        {
+                            "name" : "Laravel",
+                            "value" : [
+                                "Routing, Middleware, CSRF protection,Controller, View.",
+                                "Error Handing, Validation, Session, HTTP response",
+                                "Authetication, Authorization, Encryption, Hashing, Mail",
+                                "Eloquent, Test, Deployment, Cache, Artisan controle."
+                            ]
+                        },
+                        {
+                            "name" : "Security",
+                            "value" : [
+                                "Xss, Csrf, SQL Injection",
+                                "Insecure direct object references, cookie."
+                            ]
+                        },
+                        {
+                            "name" : "NodeJS",
+                            "value" : [
+                                "Module, Upload files, Npm, Event, Timers",
+                                "NodeJS + MySQL, Email, Blocking & Non-Blocking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key" : "Language",
+            "name" : "Langages",
+            "values" : [
+                {"name": "Vietnamien :", "level": "Langue maternelle"},
+                {"name": "Francais :", "level": "Niveau B2"},
+                {"name": "Anglais :", "level": "TOEIC 785"}
+            ]
+        },
+        {
+            "key" : "Authes",
+            "name": "Authes",
+            "values": [
+                {"name":"Travailler en équipe"},
+                {"name":"Optimiser le code."},
+                {"name": "Ecouter des besoins."},
+                {"name": "Gérer des projects."}
+            ]
+        }
+    ]
+}

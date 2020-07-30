@@ -1,0 +1,46 @@
+{
+    "FR" : {
+        "fullname": {
+            "name": "Prénom Nom",
+            "value": "Nguyen VO"
+        },
+        "email": {
+            "name": "Email",
+            "value": "vonguyen150296@gmail"
+        },
+        "phone": {
+            "name": "Téléphone",
+            "value": "07 67 17 94 26"
+        },
+        "address": {
+            "name": "Adresse",
+            "value": "58 Rue Denis Papin"
+        },
+        "description": {
+            "name": "Description",
+            "value": "Je suis à Blois. Mais je peux déplacer pour mon travail."
+        }
+    },
+    "EN" : {
+        "fullname": {
+            "name": "Fullname",
+            "value": "Nguyen VO"
+        },
+        "email": {
+            "name": "Email",
+            "value": "vonguyen150296@gmail"
+        },
+        "phone": {
+            "name": "Phone",
+            "value": "07 67 17 94 26"
+        },
+        "address": {
+            "name": "Address",
+            "value": "58 Rue Denis Papin"
+        },
+        "description": {
+            "name": "Description",
+            "value": "I am in Blois. But I can move for my job."
+        }
+    }
+}
